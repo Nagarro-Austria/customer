@@ -1,0 +1,12 @@
+C:\dev\customer4\src\main\java\at\customer\config\SwaggerDocConfig.java
+C:\dev\customer4\src\main\java\at\customer\exceptions\CustomerDuplicateNameException.java
+C:\dev\customer4\src\main\java\at\customer\config\WebConfig.java
+C:\dev\customer4\src\main\java\at\customer\CustomerApplication.java
+C:\dev\customer4\src\main\java\at\customer\entities\Customer.java
+C:\dev\customer4\src\main\java\at\customer\exceptions\CustomerNameNotNullException.java
+C:\dev\customer4\src\main\java\at\customer\advice\NotFoundAdvice.java
+C:\dev\customer4\src\main\java\at\customer\exceptions\CustomerNotFoundException.java
+C:\dev\customer4\src\main\java\at\customer\repositories\CustomerRepository.java
+C:\dev\customer4\src\main\java\at\customer\controller\CustomerController.java
+C:\dev\customer4\src\main\java\at\customer\LoadDatabase.java
+C:\dev\customer4\src\main\java\at\customer\config\SpringSecConfig.java
